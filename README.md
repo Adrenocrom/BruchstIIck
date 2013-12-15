@@ -1,0 +1,7 @@
+BruchstIIck
+===========
+
+compile:
+
+$ qmake .
+$ make
